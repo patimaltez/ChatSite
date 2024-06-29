@@ -46,12 +46,12 @@ estão logo abaixo do título (<title>Document</title>)
 ### 2. **Crie e ative um ambiente virtual
 
     python -m venv .venv
+    # Ative o ambiente virtual:
+    # No Windows
+    .venv\Scripts\activate
+    # No macOS/Linux
+    source .venv/bin/activate
 
-# Ative o ambiente virtual:
-# No Windows
-.venv\Scripts\activate
-# No macOS/Linux
-source .venv/bin/activate
 
 ### 3. **Instale as dependências
 
