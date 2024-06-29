@@ -37,13 +37,13 @@ estão logo abaixo do título (<title>Document</title>)
 
 ### Passo a Passo
 
-1. **Clone o repositório**
+### 1. **Clone o repositório**
 
    git clone https://github.com/patimaltez/ChatSite.git
    cd ChatSite
    troque o nome ChatSite para projeto
 
-### 2. **Crie e ative um ambiente virtual
+### 2. **Crie e ative um ambiente virtual**
 
     python -m venv .venv
     # Ative o ambiente virtual:
@@ -53,15 +53,15 @@ estão logo abaixo do título (<title>Document</title>)
     source .venv/bin/activate
 
 
-### 3. **Instale as dependências
+### 3. **Instale as dependências**
 
 pip install -r requirements.txt
 
-### 4. **Execute o aplicativo
+### 4. **Execute o aplicativo**
 
 python app.py
 
-### 5. **Acesse o aplicativo
+### 5. **Acesse o aplicativo**
 
 Abra o navegador e vá para http://localhost:5000.
 
